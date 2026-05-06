@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# explain each
-
 This Tractatus-style text reimagines Wittgenstein's numbered propositions, infused with Zen emptiness (mu, suchness), Camus-style absurdity (meaningless recurrence), and contingent non-determinism (alignments without cause) applied to the threads. Each builds hierarchically: main claims expand via decimals, mirroring the original's logical tree, but ends in ladder-throwing silence.[^1][^2][^3][^4]
 
 ## 1–1.12: World as Contingent Correlation
