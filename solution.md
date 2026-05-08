@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# philosophise about those ideas
 
 Those notes orbit a common intuition: a world is not just “what exists,” but the structure that makes things count as existing at all. In that sense, the Tractatus-style fragments, the Matrix, and the subtraction idea all treat reality as something organized by an underlying grammar, and disruption as a crisis of naming, not just a change in facts.
 
